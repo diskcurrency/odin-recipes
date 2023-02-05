@@ -2,7 +2,8 @@ body{
     background: rgb(145, 234, 195);
 }
 
-.homepage-image{
+.homepage-image
+{
     width: 400px;
     height: auto;
 }
