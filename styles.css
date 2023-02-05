@@ -2,7 +2,10 @@ body{
     background: rgb(145, 234, 195);
 }
 
-.homepage-image
+.homepage-image,
+.fondue-image,
+.grilled-cheese-image,
+.mac-image
 {
     width: 400px;
     height: auto;
