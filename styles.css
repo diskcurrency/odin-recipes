@@ -19,3 +19,17 @@ body{
     background-color:white;
     text-align: center;
 }
+
+*{
+    font-family: Helvetica;
+}
+.homepage-image,
+.index-title,
+.recipe-title,
+.index-paragraph,
+.paragraph-list
+{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
