@@ -1,41 +1,40 @@
-body{
+body {
     background: rgb(234, 217, 186);
 }
 
 .homepage-image,
 .fondue-image,
 .grilled-cheese-image,
-.mac-image
-{
+.mac-image {
     width: 400px;
     height: auto;
 }
 
 
 /* adjust paragraphs later*/
-.fondue-paragraph{
+.fondue-paragraph {
     width: 400px;
     height: auto;
-    background-color:white;
+    background-color: white;
     text-align: center;
 }
 
-*{
+* {
     font-family: Helvetica;
 }
+
 .homepage-image,
 .index-title,
 .recipe-title,
 .index-paragraph,
-.paragraph-list
-{
+.paragraph-list {
     display: block;
     margin: 0 auto;
     text-align: center;
 }
 
 /* Below is mac-and-cheese styling*/
-.mac-title{
+.mac-title {
     font-weight: 800;
     font-size: 24px;
 }
