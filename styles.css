@@ -38,3 +38,7 @@ body {
     font-weight: 800;
     font-size: 24px;
 }
+
+* {
+    border: 2px solid red;
+}
