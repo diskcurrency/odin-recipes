@@ -27,11 +27,7 @@ body {
 .index-title,
 .recipe-title,
 .index-paragraph,
-.paragraph-list {
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-}
+.paragraph-list {}
 
 /* Below is mac-and-cheese styling*/
 .mac-title {
