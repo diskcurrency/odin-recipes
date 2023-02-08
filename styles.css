@@ -1,3 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
 body {
     background: rgb(234, 217, 186);
 }
@@ -23,11 +29,20 @@ body {
     font-family: Helvetica;
 }
 
-.homepage-image,
+/*index page */
+.homepage-image {
+    display: block;
+    margin: 0 auto;
+}
+
 .index-title,
-.recipe-title,
 .index-paragraph,
-.paragraph-list {}
+.recipe-title,
+.paragraph-list {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
 
 /* Below is mac-and-cheese styling*/
 .mac-title {
