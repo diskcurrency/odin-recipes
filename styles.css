@@ -3,11 +3,19 @@
 }
 
 
-
+/* background color*/
 body {
     background: rgb(234, 217, 186);
 }
 
+* {
+    font-family: Helvetica;
+}
+
+
+
+
+/* images */
 .homepage-image,
 .fondue-image,
 .grilled-cheese-image,
@@ -25,9 +33,7 @@ body {
     text-align: center;
 }
 
-* {
-    font-family: Helvetica;
-}
+
 
 /*index page */
 .homepage-image {
