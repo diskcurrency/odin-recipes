@@ -1,4 +1,18 @@
 img {
     width: 400px;
     height: auto;
+    filter: grayscale(100%);
+}
+
+body {
+    background-image: url(../odin-recipes/images/dalle-background-black.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p {
+    background-color: #f1f1f1;
+    color: black;
+    font-family: 'helvetica';
+    font-size: 24px;
 }
