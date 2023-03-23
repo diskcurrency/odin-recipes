@@ -1,8 +1,3 @@
-* {
-    box-sizing: border-box;
-    font-family: Helvetica;
-}
-
 /* background color*/
 body {
     background: rgb(234, 217, 186);
@@ -74,8 +69,4 @@ nav {
 .mac-title {
     font-weight: 800;
     font-size: 24px;
-}
-
-* {
-    border: 2px solid red;
 }
