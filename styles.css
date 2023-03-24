@@ -37,6 +37,11 @@ h1 {
     font-size: 36px;
 }
 
+
+a {
+    color: black;
+}
+
 /*nav bar styling*/
 nav {
     font-family: 'bodyfont2', sans-serif;
