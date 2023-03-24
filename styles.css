@@ -8,7 +8,7 @@ img {
 p {
     background-color: #f1f1f1;
     color: black;
-    font-size: 24px;
+    font-size: 16px;
     font-family: 'bodyfont2', sans-serif;
 }
 
@@ -32,4 +32,6 @@ body {
 /* Apply the headerfont font family to the h1 element */
 h1 {
     font-family: 'headerfont', sans-serif;
+    font-weight: lighter;
+    font-size: 36px;
 }
