@@ -1,40 +1,43 @@
+/* image size */
 img {
     width: 400px;
     height: auto;
     filter: grayscale(100%);
 }
 
+/* Fonts */
 
+@font-face {
+    font-family: 'bodyfont2';
+    src: url('./fonts/bodyfont2.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'headerfont';
+    src: url('./fonts/headerfont.woff2') format('woff2');
+}
+
+
+/* p element styling */
 p {
     color: black;
     font-size: 24px;
     font-family: 'bodyfont2', sans-serif;
 }
 
-/* Define the bodyfont2 font family */
-@font-face {
-    font-family: 'bodyfont2';
-    src: url('./fonts/bodyfont2.woff2') format('woff2');
-}
-
-/* Define the headerfont font family */
-@font-face {
-    font-family: 'headerfont';
-    src: url('./fonts/headerfont.woff2') format('woff2');
-}
-
-/* Apply the bodyfont2 font family to the body element */
+/* body element styling */
 body {
     font-family: 'bodyfont2', sans-serif;
 }
 
-/* Apply the headerfont font family to the h1 element */
+/* header element styling */
 h1 {
     font-family: 'headerfont', sans-serif;
     font-weight: lighter;
     font-size: 36px;
 }
 
+/*nav bar styling*/
 nav {
     font-family: 'bodyfont2', sans-serif;
     font-size: 50px;
