@@ -4,15 +4,32 @@ img {
     filter: grayscale(100%);
 }
 
-body {
-    background-image: url(../odin-recipes/images/dalle-background-black.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
 
 p {
     background-color: #f1f1f1;
     color: black;
-    font-family: 'helvetica';
     font-size: 24px;
+    font-family: 'bodyfont2', sans-serif;
+}
+
+/* Define the bodyfont2 font family */
+@font-face {
+    font-family: 'bodyfont2';
+    src: url('./fonts/bodyfont2.woff2') format('woff2');
+}
+
+/* Define the headerfont font family */
+@font-face {
+    font-family: 'headerfont';
+    src: url('./fonts/headerfont.woff2') format('woff2');
+}
+
+/* Apply the bodyfont2 font family to the body element */
+body {
+    font-family: 'bodyfont2', sans-serif;
+}
+
+/* Apply the headerfont font family to the h1 element */
+h1 {
+    font-family: 'headerfont', sans-serif;
 }
