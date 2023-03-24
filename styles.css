@@ -34,3 +34,12 @@ h1 {
     font-weight: lighter;
     font-size: 36px;
 }
+
+nav {
+    font-family: 'bodyfont2', sans-serif;
+    font-size: 50px;
+}
+
+nav a:visited {
+    color: red;
+}
