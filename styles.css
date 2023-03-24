@@ -37,9 +37,13 @@ h1 {
     font-size: 36px;
 }
 
-
+/* link styling */
 a {
     color: black;
+}
+
+a:visited {
+    color: red;
 }
 
 /*nav bar styling*/
@@ -48,6 +52,15 @@ nav {
     font-size: 50px;
 }
 
+nav:hover {
+    background-color: black;
+    color: white;
+}
+
 nav a:visited {
+    color: red;
+}
+
+nav a:active {
     color: red;
 }
