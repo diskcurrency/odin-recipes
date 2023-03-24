@@ -18,8 +18,10 @@ img {
 }
 
 
-/* p element styling */
-p {
+/* p and ul element styling */
+p,
+ul,
+ol {
     color: black;
     font-size: 24px;
     font-family: 'bodyfont2', sans-serif;
