@@ -44,6 +44,12 @@ h3 {
     font-size: 36px;
 }
 
+/* h4 styling on recipe pages d*/
+.recipe-lists {
+    font-family: 'bodyfont2', sans-serif;
+    font-size: 24px;
+}
+
 /* link styling */
 a {
     color: red;
