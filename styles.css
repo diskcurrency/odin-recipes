@@ -41,7 +41,7 @@ h1 {
 
 /* link styling */
 a {
-    color: black;
+    color: red;
 }
 
 a:visited {
@@ -61,6 +61,12 @@ a:visited {
     background-color: black;
 }
 
+/* Recipe list on index */
 .index-list {
     font-size: 36px;
+}
+
+.top-line {
+    background-color: black;
+    height: 4px;
 }
