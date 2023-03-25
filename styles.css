@@ -39,6 +39,11 @@ h1 {
     font-size: 50px;
 }
 
+h3 {
+    font-family: 'bodyfont2', sans-serif;
+    font-size: 36px;
+}
+
 /* link styling */
 a {
     color: red;
