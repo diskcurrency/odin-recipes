@@ -47,22 +47,3 @@ a {
 a:visited {
     color: red;
 }
-
-/*nav bar styling*/
-nav {
-    font-family: 'bodyfont2', sans-serif;
-    font-size: 72px;
-}
-
-nav:hover {
-    background-color: black;
-    color: white;
-}
-
-nav a:visited {
-    color: red;
-}
-
-nav a:active {
-    color: red;
-}
