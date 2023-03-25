@@ -25,6 +25,7 @@ ol {
     color: black;
     font-size: 24px;
     font-family: 'bodyfont2', sans-serif;
+    font-weight: 500;
 }
 
 /* body element styling */
@@ -47,7 +48,7 @@ h3 {
 /* h4 styling on recipe pages d*/
 .recipe-lists {
     font-family: 'bodyfont2', sans-serif;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 /* link styling */
@@ -63,6 +64,7 @@ a:visited {
 .top-bar {
     background-color: white;
     font-size: 45px;
+    font-weight: 500;
 }
 
 .top-bar .home-link:hover,
